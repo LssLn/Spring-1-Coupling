@@ -8,10 +8,9 @@ public class BinarySearchImpl {
 	}
 
 	public int binarySearch(int[] numbers, int numberToSearch) {
-		int v = 0;
 		
 		int[] sortedNumbers = sortAlgorithm.sort(numbers);
 
-		return v;
+		return 1;
 	}
 }
